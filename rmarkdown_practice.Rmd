@@ -35,7 +35,7 @@ The weekly interactive tutorials must be completed by the start of each week. Th
 
 By the end of the course, students will be able to:
 
-* Use [Link](https://www.github.com) for creating a reproducible research document.
+* Use [GitHub](https://www.github.com) for creating a reproducible research document.
 
     * My GitHub username is: *SehyunLee0911*
 

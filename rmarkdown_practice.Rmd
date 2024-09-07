@@ -27,8 +27,22 @@ urlcolor: blue
 
 <!-- Write your Markdown below this line -->
 
-# Hello World!
+# How the Course Works
 
-Answer: # makes it 1. Hello World!, but ## makes it 0.1 Hello World!
+The weekly interactive tutorials must be completed by the start of each week. Then each weekly assignment will be due at the end of the week.
+
+# Course Goals
+
+By the end of the course, students will be able to:
+
+* Use [Link](https://www.github.com) for creating a reproducible research document.
+
+    * My GitHub username is: *SehyunLee0911*
+
+* Obtain, clean, transform, and visualize a dataset using the R programming language.
+
+* Interpret and predict dataset trends using statistical inference and models.
+
+* Critically examine and interpret statistical claims reported in mass media.
 
 
